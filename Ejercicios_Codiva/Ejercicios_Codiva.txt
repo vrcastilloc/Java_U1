@@ -1,0 +1,20 @@
+Class06_Ejer01 - Calcular Area Rectangulo
+https://www.codiva.io/p/3eac5444-fa04-4ed5-af40-93de1de06eb8
+
+Class06_Ejer02 - Calcular Volumen Cono
+https://www.codiva.io/p/3e7fb91a-804b-4562-a757-0651698cc603
+
+Class06_Ejer03 - Programa Suma/Resta/Multiplicacion/Division
+https://www.codiva.io/p/71880306-aee1-4cc7-b8c7-24f4bda3cd82
+
+Class18 - Calcular 3 Notas
+https://www.codiva.io/p/41737fd8-4001-4936-b7a4-ea0f5346e861
+
+Class19 - Menú while - if
+https://www.codiva.io/p/43d2cf43-d663-445b-a39c-1c0e82695b27
+
+Class25 - Menú while - switch
+https://www.codiva.io/p/5b68f475-2b97-4d60-b1ea-aa3661632259
+
+Class26 - Menú while - switch (ejercicios)
+https://www.codiva.io/p/0d9b7818-db83-47d2-98b3-98fdcee2fa47
